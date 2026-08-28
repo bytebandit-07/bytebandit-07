@@ -13,7 +13,7 @@
     </g>
     <g transform="translate(25, 95)">
       <text class="stat" x="0" y="0">📝 Total Commits:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">197</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">252</text>
     </g>
     <g transform="translate(25, 125)">
       <text class="stat" x="0" y="0">🔀 Total PRs:</text>
@@ -25,7 +25,7 @@
     </g>
     <g transform="translate(25, 185)">
       <text class="stat" x="0" y="0">🤝 Repos Contributed To:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">8</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">13</text>
     </g>
     <g transform="translate(25, 215)">
       <text class="stat" x="0" y="0">👥 Followers:</text>
