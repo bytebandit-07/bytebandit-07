@@ -1,0 +1,34 @@
+<svg width="420" height="265" viewBox="0 0 420 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .stat { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .stat-value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="264" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="header">bytebandit-07's GitHub Stats</text>
+  
+    <g transform="translate(25, 65)">
+      <text class="stat" x="0" y="0">⭐ Total Stars:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">6</text>
+    </g>
+    <g transform="translate(25, 95)">
+      <text class="stat" x="0" y="0">📝 Total Commits:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">197</text>
+    </g>
+    <g transform="translate(25, 125)">
+      <text class="stat" x="0" y="0">🔀 Total PRs:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(25, 155)">
+      <text class="stat" x="0" y="0">🐛 Total Issues:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(25, 185)">
+      <text class="stat" x="0" y="0">🤝 Repos Contributed To:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">8</text>
+    </g>
+    <g transform="translate(25, 215)">
+      <text class="stat" x="0" y="0">👥 Followers:</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">2</text>
+    </g>
+</svg>
