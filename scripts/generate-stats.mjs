@@ -23,7 +23,7 @@ query($login: String!) {
     pullRequests(states: [OPEN, MERGED, CLOSED]) { totalCount }
     issues { totalCount }
     repositoriesContributedTo(includeUserRepositories: true) { totalCount }
-    repositories(first: 100, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
+    repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
       totalCount
       nodes {
         stargazerCount
