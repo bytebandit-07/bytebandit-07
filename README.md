@@ -24,6 +24,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -46,15 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/bytebandit-07">
-    <img src="https://github-readme-stats.vercel.app/api?username=bytebandit-07&show_icons=true&theme=dark" alt="Talal's GitHub Stats" />
-  </a>
+  <img src="./assets/github-stats.svg" alt="Talal's GitHub Stats" />
   <br/><br/>
-  <a href="https://github.com/bytebandit-07">
-    <img src="https://streak-stats.demolab.com/?user=bytebandit-07&theme=dark" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/bytebandit-07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebandit-07&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
