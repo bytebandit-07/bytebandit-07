@@ -12,7 +12,7 @@ const headers = {
 const query = `
 query($login: String!, $after: String) {
   user(login: $login) {
-    repositories(first: 100, after: $after, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
+    repositories(first: 100, after: $after, ownerAffiliations: OWNER, isFork: false) {
       pageInfo { hasNextPage endCursor }
       nodes {
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
