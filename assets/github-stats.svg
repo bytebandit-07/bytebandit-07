@@ -9,7 +9,7 @@
   
     <g transform="translate(25, 65)">
       <text class="stat" x="0" y="0">⭐ Total Stars:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">6</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">7</text>
     </g>
     <g transform="translate(25, 95)">
       <text class="stat" x="0" y="0">📝 Total Commits:</text>
