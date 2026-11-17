@@ -9,11 +9,11 @@
   
     <g transform="translate(25, 65)">
       <text class="stat" x="0" y="0">⭐ Total Stars:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">7</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">8</text>
     </g>
     <g transform="translate(25, 95)">
       <text class="stat" x="0" y="0">📝 Total Commits:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">306</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">311</text>
     </g>
     <g transform="translate(25, 125)">
       <text class="stat" x="0" y="0">🔀 Total PRs:</text>
@@ -25,7 +25,7 @@
     </g>
     <g transform="translate(25, 185)">
       <text class="stat" x="0" y="0">🤝 Repos Contributed To:</text>
-      <text class="stat-value" x="370" y="0" text-anchor="end">15</text>
+      <text class="stat-value" x="370" y="0" text-anchor="end">16</text>
     </g>
     <g transform="translate(25, 215)">
       <text class="stat" x="0" y="0">👥 Followers:</text>
